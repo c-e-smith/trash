@@ -1,2 +1,0 @@
-1 | red | red | red | red
-2 | blue | blue | blue | blue
